@@ -1,5 +1,10 @@
 # bokio-mcp
 
+> **About this fork:** a thin, read-only fork of [diblaze/bokio-mcp](https://github.com/diblaze/bokio-mcp),
+> used as the data layer for an in-house CFO agent. See [ROADMAP.md](ROADMAP.md) for the planned
+> changes. Generic improvements are offered back upstream. Until Phase 1 lands, this fork behaves
+> exactly like upstream.
+
 [![CI](https://github.com/diblaze/bokio-mcp/actions/workflows/ci.yml/badge.svg)](https://github.com/diblaze/bokio-mcp/actions/workflows/ci.yml)
 [![npm](https://img.shields.io/npm/v/bokio-mcp)](https://www.npmjs.com/package/bokio-mcp)
 [![downloads](https://img.shields.io/npm/dm/bokio-mcp)](https://www.npmjs.com/package/bokio-mcp)
